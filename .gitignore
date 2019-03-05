@@ -6,3 +6,6 @@ masa.jpg
 note.txt
 test.qdoc
 test.wav
+.gitignore
+masasonganalysis.pro*
+masasonganalysis.qdoc*
