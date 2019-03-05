@@ -1,7 +1,0 @@
-
-cd C:\Qt\user\masasonganalysis
-
-C:\Qt\5.11.2\msvc2017_64\bin\qdoc masasonganalysis.qdocconf
-
-
-
