@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QDOCINDEX>
+<INDEX url="" title="" version="" project="">
+    <namespace threadsafety="unspecified" name="" status="active" access="public">
+        <page name="basicqt.html" href="basicqt.html" status="active" location="test.qdoc" filepath="C:/Qt/user/masasonganalysis/test.qdoc" lineno="2" subtype="page" title="Basic Qt" fulltitle="Basic Qt" subtitle="" brief="BLLLLAAAAAA"/>
+        <page name="gettingstarted.html" href="gettingstarted.html" status="active" location="test.qdoc" filepath="C:/Qt/user/masasonganalysis/test.qdoc" lineno="29" subtype="page" title="Getting Started" fulltitle="Getting Started" subtitle=""/>
+        <page name="index.html" href="index.html" status="active" location="test.qdoc" filepath="C:/Qt/user/masasonganalysis/test.qdoc" lineno="58" subtype="page" title="Index" fulltitle="Index" subtitle=""/>
+    </namespace>
+</INDEX>

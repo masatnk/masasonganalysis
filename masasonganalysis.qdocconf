@@ -1,0 +1,31 @@
+project	= MasaSongAnalysis
+description = Analyzing sound in WAV files
+sourcedirs  = .
+headerdirs  = .
+exampledirs = .
+imagedirs = ./images
+outputdir   = ./html
+outputformats = HTML
+sources.fileextensions  = "*.cpp *.qdoc"
+headers.fileextensions  = "*.h"
+examples.fileextensions = "*.cpp *.h *.ui"
+
+
+Cpp.ignoredirectives = Q_DECLARE_INTERFACE \
+                       Q_DECLARE_OPERATORS_FOR_FLAGS \
+                       Q_DECLARE_PRIVATE \
+                       Q_DECLARE_PUBLIC \
+                       Q_DISABLE_COPY \
+                       Q_DUMMY_COMPARISON_OPERATOR \
+                       Q_ENUMS \
+                       Q_FLAGS \
+                       Q_INTERFACES \
+                       __attribute__
+
+Cpp.ignoretokens = QAXFACTORY_EXPORT \
+                   QM_EXPORT_CANVAS \
+                   Q_COMPAT_EXPORT \
+                   Q_CORE_EXPORT \
+                   Q_EXPLICIT \
+                   Q_EXPORT \
+                   Q_XML_EXPORT
